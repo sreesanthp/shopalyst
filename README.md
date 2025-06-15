@@ -1,4 +1,4 @@
-# shopalyst
+# SHOPALYST Assignment
 AWS Infrastructure Deployment with IaC 
 # README - AWS Web Application Infrastructure (CloudFormation)
 
